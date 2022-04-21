@@ -1,0 +1,10 @@
+/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/bin/Debug/netstandard2.1/MathildeString.deps.json
+/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/bin/Debug/netstandard2.1/MathildeString.dll
+/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/bin/Debug/netstandard2.1/MathildeString.pdb
+/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/obj/Debug/netstandard2.1/MathildeString.csproj.AssemblyReference.cache
+/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/obj/Debug/netstandard2.1/MathildeString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/obj/Debug/netstandard2.1/MathildeString.AssemblyInfoInputs.cache
+/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/obj/Debug/netstandard2.1/MathildeString.AssemblyInfo.cs
+/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/obj/Debug/netstandard2.1/MathildeString.csproj.CoreCompileInputs.cache
+/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/obj/Debug/netstandard2.1/MathildeString.dll
+/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/obj/Debug/netstandard2.1/MathildeString.pdb
