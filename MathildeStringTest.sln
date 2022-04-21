@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathildeStringTest", "MathildeStringTest\MathildeStringTest.csproj", "{737BE79F-9762-4F32-8354-430CFC6B11F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathildeString", "..\MathildeString\MathildeString\MathildeString.csproj", "{3A42B4A3-C690-4957-BDAA-AE59B9F54E7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{737BE79F-9762-4F32-8354-430CFC6B11F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{737BE79F-9762-4F32-8354-430CFC6B11F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{737BE79F-9762-4F32-8354-430CFC6B11F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{737BE79F-9762-4F32-8354-430CFC6B11F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A42B4A3-C690-4957-BDAA-AE59B9F54E7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A42B4A3-C690-4957-BDAA-AE59B9F54E7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A42B4A3-C690-4957-BDAA-AE59B9F54E7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A42B4A3-C690-4957-BDAA-AE59B9F54E7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3328445-162F-4D17-BD7C-3A0EA9A0F502}
+	EndGlobalSection
+EndGlobal
