@@ -74,6 +74,11 @@ namespace MathildeString
             return this.Equals(new String(obj as string));
         }
 
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+
 
         public char this[int index] => charArray[index];
         public int Length => charArray.Length;

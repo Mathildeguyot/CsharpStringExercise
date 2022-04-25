@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qh5eO60RTHWWCBVd6v76JfiswtvUJtaYopLE++wRS0NU+ewkC0EfZzZ35BEEbc+MuiZQHaA4Xv/VBnaF50XqNQ==",
+  "dgSpecHash": "D/AR9M0rTLrQRFjZVEuYsfK1evtok6V0QUrd4OaXCVsoB6WRU8s9Mcs4mHkN6WwdWmV+xEaAFGGq6N2WkzBYKA==",
   "success": true,
-  "projectFilePath": "/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/MathildeString.csproj",
+  "projectFilePath": "/Users/mathilde.guyot/air-indemnite/CsharpStringExercise/MathildeString/MathildeString/MathildeString.csproj",
   "expectedPackageFiles": [
     "/Users/mathilde.guyot/.nuget/packages/netstandard.library.ref/2.1.0/netstandard.library.ref.2.1.0.nupkg.sha512"
   ],

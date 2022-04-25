@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/MathildeString.csproj": {}
+    "/Users/mathilde.guyot/air-indemnite/CsharpStringExercise/MathildeString/MathildeString/MathildeString.csproj": {}
   },
   "projects": {
-    "/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/MathildeString.csproj": {
+    "/Users/mathilde.guyot/air-indemnite/CsharpStringExercise/MathildeString/MathildeString/MathildeString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/MathildeString.csproj",
+        "projectUniqueName": "/Users/mathilde.guyot/air-indemnite/CsharpStringExercise/MathildeString/MathildeString/MathildeString.csproj",
         "projectName": "MathildeString",
-        "projectPath": "/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/MathildeString.csproj",
+        "projectPath": "/Users/mathilde.guyot/air-indemnite/CsharpStringExercise/MathildeString/MathildeString/MathildeString.csproj",
         "packagesPath": "/Users/mathilde.guyot/.nuget/packages/",
-        "outputPath": "/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/obj/",
+        "outputPath": "/Users/mathilde.guyot/air-indemnite/CsharpStringExercise/MathildeString/MathildeString/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mathilde.guyot/.nuget/NuGet/NuGet.Config"
