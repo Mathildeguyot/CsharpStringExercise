@@ -4,6 +4,64 @@
     "/Users/mathilde.guyot/air-indemnite/MathildeStringTest/MathildeStringTest/MathildeStringTest.csproj": {}
   },
   "projects": {
+    "/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/MathildeString.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/MathildeString.csproj",
+        "projectName": "MathildeString",
+        "projectPath": "/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/MathildeString.csproj",
+        "packagesPath": "/Users/mathilde.guyot/.nuget/packages/",
+        "outputPath": "/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mathilde.guyot/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "NETStandard.Library.Ref",
+              "version": "[2.1.0, 2.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/mathilde.guyot/air-indemnite/MathildeStringTest/MathildeStringTest/MathildeStringTest.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +83,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/MathildeString.csproj": {
+                "projectPath": "/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/MathildeString.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

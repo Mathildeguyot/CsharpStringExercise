@@ -1,18 +1,19 @@
 ﻿<Properties StartupConfiguration="{737BE79F-9762-4F32-8354-430CFC6B11F2}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
-  <MonoDevelop.Ide.ItemProperties.MathildeStringTest FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MathildeStringTest/UnitTest1.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../MathildeString/MathildeString/String.cs">
     <Files>
-      <File FileName="MathildeStringTest/UnitTest1.cs" Line="1" Column="1" />
+      <File FileName="MathildeStringTest/UnitTest1.cs" Line="16" Column="39" />
+      <File FileName="../MathildeString/MathildeString/String.cs" Line="79" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MathildeStringTest" expanded="True">
+            <Node name="MathildeString" expanded="True" />
             <Node name="MathildeStringTest" expanded="True">
-              <Node name="Dependencies" selected="True" />
+              <Node name="Dependencies" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -28,4 +29,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MathildeStringTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

@@ -1670,6 +1670,16 @@
         "build": {
           "build/netcoreapp2.1/xunit.runner.visualstudio.props": {}
         }
+      },
+      "MathildeString/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/MathildeString.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MathildeString.dll": {}
+        }
       }
     }
   },
@@ -5962,10 +5972,16 @@
         "xunit.runner.visualstudio.2.4.3.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "MathildeString/1.0.0": {
+      "type": "project",
+      "path": "../../MathildeString/MathildeString/MathildeString.csproj",
+      "msbuildProject": "../../MathildeString/MathildeString/MathildeString.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "MathildeString >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
       "coverlet.collector >= 3.1.0",
       "xunit >= 2.4.1",
@@ -5996,7 +6012,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/MathildeString.csproj": {
+              "projectPath": "/Users/mathilde.guyot/air-indemnite/MathildeString/MathildeString/MathildeString.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
