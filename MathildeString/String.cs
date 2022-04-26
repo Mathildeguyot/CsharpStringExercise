@@ -76,7 +76,7 @@ namespace MathildeString
 
         public override int GetHashCode()
         {
-            return base.GetHashCode();
+            return this.ToString().GetHashCode();
         }
 
 
