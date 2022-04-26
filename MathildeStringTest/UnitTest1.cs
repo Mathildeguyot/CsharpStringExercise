@@ -137,4 +137,18 @@ public class UnitTest1
 
         Assert.Equal(expected, actual);
     }
+
+    [Theory]
+    [InlineData("tata", "tata")]
+    [InlineData("", "")]
+    public void GetHashCode_ShouldReturnSameValueForTwoStringsWithSameContent(string s1, string s2)
+    {
+        MathildeString.String first = new MathildeString.String(s1);
+        MathildeString.String second = new MathildeString.String(s2);
+        bool expected = true;
+
+        bool actual = first.GetHashCode().Equals(second.GetHashCode());
+
+        Assert.Equal(expected, actual);
+    }
 }
